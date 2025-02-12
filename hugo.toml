@@ -8,3 +8,7 @@ theme = 'hugo-story'
 
 [params]
 favicon = true
+
+[params.social]
+linkedin = 'https://www.linkedin.com/in/msletfj/'
+github = 'https://github.com/eembees/'
