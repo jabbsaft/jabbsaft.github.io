@@ -5,17 +5,17 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Science"
-    content : "University level teaching of Nanobiology, Spectroscopy, and Data Analysis."
+    content : "University level teaching of Nanobiology, Spectroscopy, and Data Analysis at University of Copenhagen."
     style : "style2 major fa-microscope"
 
   # feature item loop
   - name : "Technology"
-    content : "University level teaching use of Machine Learning and Generative AI at DIS Copenhagen."
+    content : "University level teaching Machine Learning and Generative AI at DIS Copenhagen."
     style : "solid style2 major fa-atom"
     
   # feature item loop
   - name : "Leadership"
-    content : '7+ years of experience educating young democrating leaders of Europe through the European Youth Parliament'
+    content : '7+ years of experience educating young democratic leaders of Europe through the European Youth Parliament.'
     style : "solid style2 major fa-lightbulb"
     
   # feature item loop
