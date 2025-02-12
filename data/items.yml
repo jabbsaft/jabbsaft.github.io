@@ -5,21 +5,21 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Science"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "University level teaching of Nanobiology, Spectroscopy, and Data Analysis."
     style : "style2 major fa-microscope"
 
   # feature item loop
   - name : "Technology"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "University level teaching use of Machine Learning and Generative AI at DIS Copenhagen."
     style : "solid style2 major fa-atom"
     
   # feature item loop
   - name : "Leadership"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : '7+ years of experience educating young democrating leaders of Europe through the European Youth Parliament'
     style : "solid style2 major fa-lightbulb"
     
   # feature item loop
   - name : "Coaching"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Solid experience coaching leaders and athletes in personal progression and development."
     style : "solid style2 major fa-bolt"
     
