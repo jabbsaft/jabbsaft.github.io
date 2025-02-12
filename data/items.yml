@@ -1,0 +1,25 @@
+title : "Teaching Experience"
+content: |
+  We have experience across a wide range of fields, linking our interest between society and technology.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Science"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-microscope"
+
+  # feature item loop
+  - name : "Technology"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-atom"
+    
+  # feature item loop
+  - name : "Leadership"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-lightbulb"
+    
+  # feature item loop
+  - name : "Coaching"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-bolt"
+    

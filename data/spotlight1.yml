@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Lifelong Educator"
+content: |
+  With 10 years of teaching experience, Magnus is passionate about sharing knowledge and between humans. Since High-School, he's been passionate about education, democracy and the intersection between technology and society.
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/educator.jpg"

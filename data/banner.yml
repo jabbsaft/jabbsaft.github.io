@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Jabbsaft Education"
+subtitle: |
+  Learning by <i>doing</i>, by <i>thinking</i>, and <i>speaking</i>.
+content : |
+  The mission of Jabbsaft education is to teach leaders of the future how to navigate the human-technological future.
+button:
+  label : "Get To Know"
+  link : "#first"
+image : "images/logo-color.png"
+
