@@ -22,4 +22,10 @@ items:
   - name : "Coaching"
     content : "Solid experience coaching leaders and athletes in personal progression and development."
     style : "solid style2 major fa-bolt"
+
+  # feature item loop
+  - name : "Pedagogy"
+    content : "Experienced in University teaching, trained in University Pedagogy at the Univ. of Copenhagen (Universitetspædagogikum)"
+    style : "solid style2 major fa-chalkboard-user"
+
     
